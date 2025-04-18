@@ -1,5 +1,4 @@
 # Elasticsearch Theory
-## Table of contents
 ## Overview
 - Elasticsearch là một công cụ tìm kiếm và phân tích phân tán, có mã nguồn mở được xây dựng trên nền tảng Apache Lucene. Elasticsearch cung cấp khả năng tìm kiếm nhanh chóng, lưu trữ dữ liệu phi cấu trúc và phân tích dữ liệu theo thời gian thực.
 ## Các thành phần chính trong Elasticsearch
